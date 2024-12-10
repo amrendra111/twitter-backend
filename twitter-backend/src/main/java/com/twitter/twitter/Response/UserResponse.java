@@ -3,8 +3,7 @@ package com.twitter.twitter.Response;
 
 public class UserResponse {
 	
-	
-	private String userId;
+	private Integer userId;
 	
 	private String firstName;
 	
